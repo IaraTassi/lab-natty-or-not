@@ -10,6 +10,13 @@
 Seguindo o template a baixo usei um dos insigths para traduzir parte do meu Podcast produzido em um dos sesafios anteriores, sei o `Elevenlabs` para traduzir o meu texto que foi criado pelo ChatGPT seguindo os comandos de prompt criados por mim, foi usado o canva para criar a imagem de um avatar.
 
 <p align="center">
+    <img 
+    src=".github/assets/Pixel e Ponto.png"
+    width="300"
+    align="center"
+/>
+</p>
+<p align="center">
   <audio style="text-decoration:none">
   <a href=".github/assets/0612 (2).mp4">preview do podcast-traduzido</a>
 </audio>
