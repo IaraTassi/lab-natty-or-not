@@ -2,19 +2,22 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+> ℹ️ **NOTE:** Este repositório foi criado para o desafio "
+> Criando um Artigo com IAs Generativas" durante o "Santander Bootcamp 2024 - Trilha: Fundamentos de IA para Devs" da [DIO](https://dio.me).
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🧐 Processo de Criação
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Seguindo o template a baixo usei um dos insigths para traduzir parte do meu Podcast produzido em um dos sesafios anteriores, sei o `Elevenlabs` para traduzir o meu texto que foi criado pelo ChatGPT seguindo os comandos de prompt criados por mim, foi usado o canva para criar a imagem de um avatar.
+
+Resultado: [Podcast-Inglês]()
 
 ### Objetivos
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
+   1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
+   2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
+   3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
@@ -23,18 +26,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
+
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
+
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
+
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
+
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
+
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
