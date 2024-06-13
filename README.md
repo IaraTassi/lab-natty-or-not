@@ -3,11 +3,11 @@
 ## 🚀 Introdução
 
 > ℹ️ **NOTE:** Este repositório foi criado para o desafio "
-> Criando um Artigo com IAs Generativas" durante o "Santander Bootcamp 2024 - Trilha: Fundamentos de IA para Devs" da [DIO](https://dio.me).
+> Desafio Natural ou Fake Natty? com IAs Generativas" durante o "Santander Bootcamp 2024 - Trilha: Fundamentos de IA para Devs" da [DIO](https://dio.me).
 
 ## 🧐 Processo de Criação
 
-Seguindo o template a baixo usei um dos insigths para traduzir parte do meu Podcast produzido em um dos sesafios anteriores, sei o `Elevenlabs` para traduzir o meu texto que foi criado pelo ChatGPT seguindo os comandos de prompt criados por mim, foi usado o canva para criar a imagem de um avatar.
+Seguindo o template a baixo usei um dos insigths para traduzir parte do meu Podcast produzido em um dos desafios anteriores, usei o `Elevenlabs` para traduzir o texto que foi criado pelo ChatGPT seguindo os comandos de prompt criados por mim, usado a ferramenta Canva para criar a imagem de um avatar.
 
 <p align="center">
     <img 
